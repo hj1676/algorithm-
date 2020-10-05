@@ -1,4 +1,4 @@
-//아니 시발 왜 무한루프 도는거냐 -> 해결완료.. 교훈 i 직접 건드리지말고 temp 변수 써라 
+//무한루프 도는거냐 -> 해결완료.. 교훈 i 직접 건드리지말고 temp 변수 써라 
 #include<stdio.h>
 #include<iostream>
 using namespace std;
